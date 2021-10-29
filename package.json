@@ -1,0 +1,21 @@
+{
+  "name": "fid-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "dotenv": "^10.0.0",
+    "graphql": "^16.0.0",
+    "i": "^0.3.7",
+    "module_name": "^1.0.0",
+    "mongoose": "^6.0.12",
+    "nodemon": "^2.0.14"
+  }
+}
